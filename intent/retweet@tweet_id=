@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+<!-- BEGIN html -->
+<html dir="ltr" lang="en-US">
+<!-- Design by AJ Clarke (http://www.wpexplorer.com) - Powered by WordPress (http://wordpress.org) -->
+
+<!-- BEGIN head -->
+<head>
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- Title -->	
+<title>  Page not found : My Blog</title>
+    
+<!-- Favicon -->
+
+<!-- Main Stylesheet -->
+<link rel="stylesheet" type="text/css" href="../../wp-content/themes/Classy/style.css" />
+
+<style type="text/css">
+</style><style type="text/css">
+body{ background-image: url('../../wp-content/themes/Classy/images/backgrounds/dark-stripes.png'); background-repeat: repeat; }
+</style>
+
+<!-- WP Head -->
+<script type='text/javascript' src='../../../ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js@ver=1.6.2'></script>
+<script type='text/javascript' src='../../wp-content/themes/Classy/js/custom.js@ver=3.3.1'></script>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+
+
+</head>
+<!-- END Head -->
+
+<!-- START Body -->
+<body class="error404">
+
+<div id="wrap" class="container_24 clearfix">
+
+	<div id="header" class="clearfix"> 
+    
+    	<div id="header-logo" class="grid_16">	
+                        	<a href="../../default.htm" title="My Blog"><img src="../../wp-content/uploads/2012/04/logosmiles.png" alt="My Blog" /></a>
+                    
+        </div>
+        <!-- END #header-logo .grid_16 -->  
+        
+		        <div id="phone">
+			+62 81 754 278 69        </div>
+                   
+		<div id="search-wrap">
+<form method="get" id="searchbar" action="http://logosmile.net/">
+<input type="text" size="16" name="s" id="search" value="Search..." onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" />
+<input type="submit" value="" id="searchsubmit" />
+</form>
+</div><!-- /search-wrap -->    
+</div><!-- END header -->
+
+<div id="navigation" class="clearfix">
+    <div class="menu-about-container"><ul id="menu-about" class="sf-menu"><li id="menu-item-104" class="navicon-home menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-104"><a href="../../default.htm">Home</a></li>
+<li id="menu-item-99" class="navicon-admin menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="../../about/default.htm">About Me</a></li>
+<li id="menu-item-101" class="navicon-pencil menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="../../my-portfolio/default.htm">My Portfolio</a></li>
+<li id="menu-item-102" class="navicon-mail menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="../../contact-us/default.htm">Contact Us</a></li>
+</ul></div></div>
+<!-- END navigation -->
+
+<div id="main" class="grid_24 clearfix">
+
+<div id="post" class="full-width">
+	<h1 id="error-page-title">404</h1>			
+	<p id="error-page-text">Sorry, the page you were looking for could not be found!</p>
+</div><!-- END #post .full-width -->   
+</div>
+<!-- END #main -->
+</div>
+<!-- END #wrap .container_24 -->
+
+<span class="footer-top-pattern"></span>
+
+ 
+<div  id="footer" class="container_24 clearfix">
+
+    <div class="grid_6">
+    	    </div>
+    <!-- END .grid_6 --> 
+    	<div class="grid_6">
+        </div>
+    <!-- END .grid_6 -->
+    <div class="grid_6">
+    	    </div>
+    <!-- END .grid_6 -->  
+    <div class="grid_6 omega">   
+    	    </div>
+    <!-- END .grid_6 -->
+
+
+
+</div>
+<!-- END #Footer .container_24 -->
+
+<div id="footer-extended" class="container_24 clearfix">
+	<div id="copyright" class="grid_20">
+    			&copy; 2012  My Blog        	</div>
+    <!-- END #copyright .grid_20 -->
+    <div id="top" class="grid_4">
+    	<a href="#top" title="Back To Top">Top &uarr;</a>
+    </div>
+    <!-- END #top .grid_4 -->
+    <span id="footer-triangle-left"></span>
+    <span id="footer-triangle-right"></span>
+</div>
+<!-- END #footer-extended .container_24  -->
+<!-- WP Footer -->
+</body>
+</html>
